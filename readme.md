@@ -22,4 +22,6 @@ If the file can't be selected:
 
 ### Screenshots
 
+Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
+
 ![preivew](https://i.imgur.com/Qgzamtg.png)
