@@ -8,7 +8,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 [![](https://img.shields.io/badge/Rosé%20Pine%20Theme-191724)](https://github.com/rose-pine/rose-pine-theme)
 
-### Usage
+## Usage
 
 1. Download the .terminal file. You may need to save it in another format then rename it.
 2. Open Terminal > Settings > Gear icon at the bottom left > Import Profile
@@ -20,7 +20,7 @@ If the file can't be selected:
 5. Replace the contents of the file you just exported with that of rose-pine.terminal
 6. Import the profile > Set as default
 
-### Screenshots
+## Screenshots
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
