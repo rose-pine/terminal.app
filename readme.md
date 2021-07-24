@@ -26,4 +26,4 @@ or
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
-![preview](https://i.ibb.co/BNrJbMH/Screen-Shot-2020-11-12-at-12-07-23-AM.png)
+![screenshot](https://user-images.githubusercontent.com/44733677/126877821-527ab8f6-9805-43dd-a437-a603f31aefae.png)
