@@ -26,4 +26,12 @@ or
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
-![screenshot](https://user-images.githubusercontent.com/44733677/126877821-527ab8f6-9805-43dd-a437-a603f31aefae.png)
+**Rosé Pine**
+![rp](https://user-images.githubusercontent.com/44733677/126877821-527ab8f6-9805-43dd-a437-a603f31aefae.png)
+
+**Rosé Pine Moon**
+![rpm](https://user-images.githubusercontent.com/44733677/126877964-4fc19393-06fe-47fa-9f30-345e2d03708c.png)
+
+
+**Rosé Pine Dawn**
+![rpd](https://user-images.githubusercontent.com/44733677/126877971-aab952a8-a152-42b4-9981-449c0b84b772.png)
